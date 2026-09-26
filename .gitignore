@@ -1,0 +1,5 @@
+# Old versions written by other people - keep local only, never publish
+_old-versions/
+
+# macOS
+.DS_Store
