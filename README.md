@@ -65,6 +65,10 @@ cp -R skills/bug-reproduction ~/.claude/skills/
 
 Then in Claude Code, type `/bug-reproduction` (or just describe the task, and Claude picks the right skill).
 
+## Credits
+
+Some of these skills were inspired by open-source QA skills shared under the MIT license by Testomat.io, The Testing Academy, Pramod, kindlmann and qaskills. All skills here are my own rewrites for how I work.
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
